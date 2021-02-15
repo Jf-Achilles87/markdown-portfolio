@@ -6,20 +6,20 @@
    - Hundred years of solitude
    - اولاد حارتنا
 2. Favourite cuisine
-   - French
-   - Italian
+   - French :fr:
+   - Italian :it:
 3. Favourite wines
    - Bourgogne
    - Piemonte
 4. Best Sports
-   - Soccer
-   - American Football
+   - Soccer :soccer:
+   - American Football :rugby_football:
 5. Favourite Soccer Teams
    - Manchester United
    - Read Madrid
    - Juventus
 6. Favourite computer games
-7. Languages Spoken
-8. Songs
+7. Favourite games :spades::hearts::clubs::diamonds:
+8. Songs :guitar:
 9. Movies
-10. To-do list
+10. To-do list :bar_chart:
