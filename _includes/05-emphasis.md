@@ -1,7 +1,7 @@
 Languages Spoken:
   - French :heart:
-  - Italian :food:
-  - Egyptian :tree:
+  - Italian :colosseum:
+  - Egyptian :sphynx:
   - English :+1:
   
 Languages in progress
@@ -17,7 +17,7 @@ Programming:
   - R
 
 Skills:
-  - Analysis
+  - Analysis :100:
   - Strategy
   - *Writing*
   - **Learning**
