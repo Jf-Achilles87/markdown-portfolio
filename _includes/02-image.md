@@ -1,1 +1,1 @@
-![Picture of James Selwaness](https://onedrive.live.com/?cid=A47C3144E26241B5&id=A47C3144E26241B5%2174567&parId=A47C3144E26241B5%2174563&o=OneUp)
+![Picture of James Selwaness](https://dm2305files.storage.live.com/y4mM31wgVbtR1vHc7hJuHn7goEEhe-AFtgOW33LEUsQnycHb78rhCl3Veh8KsJJNzQ_zOMggH9Srr3T6ib4VNAD-NixWk4jnV13TZi0vmebYdRTgbMs5N0CiC867msEsYPYHFr6-fBxEOv_ICosY97c00oHCQImlgSz0cDTvPTjh6WKCh0HTRco15oyhnbZRoTn?width=3137&height=2287&cropmode=none)
