@@ -1,1 +1,1 @@
-[My LinkedIn] (www.linkedin.com/in/james-selwaness)
+[My LinkedIn] (https://www.linkedin.com/in/james-selwaness)
