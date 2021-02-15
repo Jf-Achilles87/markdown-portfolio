@@ -1,9 +1,15 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
 Languages Spoken:
   - French :heart:
   - Italian :food:
   - Egyptian :tree:
   - English :+1:
+  
+Languages in progress
+  - [ ] Russian
+  - [ ] Spanish
+  - [ ] Greek
+  - [ ] Dutch
+  - [ ] Chinese
   
 Programming:
   - Java
@@ -13,5 +19,5 @@ Programming:
 Skills:
   - Analysis
   - Strategy
-  - ##Writing##
-  - #Learning#
+  - *Writing*
+  - **Learning**
